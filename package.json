@@ -1,0 +1,17 @@
+{
+  "name": "voice-recorder",
+  "version": "1.0.0",
+  "description": "A voice recorder application",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "recorder"
+  ],
+  "devDependencies": {
+    "@types/node": "^17.0.19",
+    "electron": "^17.0.1"
+  }
+}
