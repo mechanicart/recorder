@@ -11,7 +11,7 @@
     "recorder"
   ],
   "devDependencies": {
-    "@types/node": "^17.0.19",
+    "@types/node": "^18.0.4",
     "electron": "^17.0.1"
   }
 }
